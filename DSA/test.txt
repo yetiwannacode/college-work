@@ -1,1 +1,3 @@
 This is DSA Day 1 work, Array basics
+Stack Problems
+Queue Problems
