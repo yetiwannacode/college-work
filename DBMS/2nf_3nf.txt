@@ -1,0 +1,3 @@
+2NF: remove partial dependency
+3NF: remove transitive dependency 
+
