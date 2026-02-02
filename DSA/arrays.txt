@@ -1,2 +1,3 @@
 For revision
 Learnt prefix sum
+binary search on answer
